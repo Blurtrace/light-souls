@@ -9,6 +9,7 @@ heal_enemy     = 30
 
 #Counter for engine
 engine_count   = False
+turn_count     = 1
 
 #Enemy's nickname
 enemy_nickname = "Rhaast"
