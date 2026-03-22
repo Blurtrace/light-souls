@@ -18,3 +18,4 @@ while not variables.engine_count:
     enemy_turn()
     show_status(player_nickname)
     win_condition()
+    variables.turn_count += 1
